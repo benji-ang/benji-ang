@@ -1,9 +1,9 @@
 # Benji Ang 👋
 
-🎓 MSc Artificial Intelligence @ Imperial College London (2025–2026)
-🎓 BSc Actuarial Science @ London School of Economics (2022–2025)
-💼 Former Investment Intern @ Capstone Investment Advisors (Macro Equities)
-🔬 Working on: Neuro-Argumentative Pipeline for Natural Language Inference (MSc Thesis)
+- 🎓 MSc Artificial Intelligence @ Imperial College London (2025–2026)
+- 🎓 BSc Actuarial Science @ London School of Economics (2022–2025)
+- 💼 Former Investment Intern @ Capstone Investment Advisors (Macro Equities)
+- 🔬 Working on: Neuro-Argumentative Pipeline for Natural Language Inference (MSc Thesis)
 
 💬 Programming languages:
 - Python (advanced)
