@@ -1,4 +1,4 @@
-# Benji Ang 👋
+# Benji Ang
 
 - 🎓 MSc Artificial Intelligence @ Imperial College London (2025–2026)
 - 🎓 BSc Actuarial Science @ London School of Economics (2022–2025)
