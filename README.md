@@ -1,7 +1,5 @@
 # benji ang
 
-ai @ imperial, actsci @ lse
-
 i (mainly claude tbf) code in python
 
 i like bouldering, movies and discovering new music
